@@ -1,18 +1,22 @@
 # Hello, I'm ZK (Izaz Khan)
 # About Me
 
-🔭 Interests: Artificial Intelligence, Machine Learning, and the ethical implications of AI on society.
+# Interests:
+Artificial Intelligence, Machine Learning, and the ethical implications of AI on society.
 
-🌱 Currently Learning: Fundamentals of AI/ML, Python for Data Science, and Neural Networks.
+# Currently Learning: 
+Fundamentals of AI/ML, Python for Data Science, and Neural Networks.
 
-🤝 Looking to Collaborate: Open to working with peers and professionals on AI-related projects, research, or open-source contributions.
+# Looking to Collaborate: 
+Open to working with peers and professionals on AI-related projects, research, or open-source contributions.
 
-📫 Connect With Me:
+# Connect With Me:
 LinkedIn, Email
 
-😄 Pronouns: He/Him
+# Pronouns:
+He/Him
 
-⚡ Fun Facts: 
+# Fun Facts: 
 
 "I think ‘Ctrl+Z’ is humanity’s greatest invention—second only to pizza."
                
