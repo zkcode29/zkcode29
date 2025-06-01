@@ -13,6 +13,7 @@ LinkedIn, Email
 😄 Pronouns: He/Him
 
 ⚡ Fun Facts: 
+
 "I think ‘Ctrl+Z’ is humanity’s greatest invention—second only to pizza."
                
 "I don’t fear AI—I fear my own code from 2 years ago."
