@@ -12,11 +12,13 @@ LinkedIn, Email
 
 😄 Pronouns: He/Him
 
-⚡ Fun Facts: "I think ‘Ctrl+Z’ is humanity’s greatest invention—second only to pizza."
+⚡ Fun Facts: 
+"I think ‘Ctrl+Z’ is humanity’s greatest invention—second only to pizza."
                
-               "I don’t fear AI—I fear my own code from 2 years ago."
+"I don’t fear AI—I fear my own code from 2 years ago."
 
-Goals
+# Goals
+
 I aim to deepen my understanding of AI while contributing to meaningful projects that bridge technology and human impact. Let’s connect and build something great together!
 
 
